@@ -1,4 +1,6 @@
-# projeto19-linkr-back
+# Linkr Back-end
+
+# Sobre este Projeto
 
 # Tecnologias
 
@@ -9,3 +11,5 @@ As seguintes ferramentas e estruturas foram utilizadas na construção deste pro
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+# Como executar
